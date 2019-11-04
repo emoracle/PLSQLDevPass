@@ -1,0 +1,13 @@
+{
+  "name": "plsqldevhack",
+  "version": "1.0.0",
+  "description": "Lees de userpreference uit van plsqldeveloper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "H.E. van Meerendonk",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
